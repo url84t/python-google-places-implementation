@@ -1,0 +1,7 @@
+[DEFAULT]
+API_KEY = YOUR_API_KEY_HERE
+
+[GOOGLE_PLACES]
+PAGES = 3
+QUERY = community center
+LOCATION = Hamilton, Ontario
